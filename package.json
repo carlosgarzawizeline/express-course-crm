@@ -1,0 +1,22 @@
+{
+  "name": "crm",
+  "version": "1.0.0",
+  "description": "crm backend for express course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosgarzawizeline/express-course-crm.git"
+  },
+  "author": "Carlos Garza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosgarzawizeline/express-course-crm/issues"
+  },
+  "homepage": "https://github.com/carlosgarzawizeline/express-course-crm#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
